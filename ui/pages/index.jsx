@@ -4,6 +4,10 @@ import React, {Component} from 'react';
  * Production please use
  * import {xxx} from 'organism-react-scroll-nav';
  */
+
+/**
+ *  ScrollReceiver, scrollDispatch explanation needed 
+ */
 import {
     ScrollSpy,
     ScrollReceiver,
